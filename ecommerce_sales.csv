@@ -1,0 +1,151 @@
+OrderID,Date,CustomerID,CustomerName,Product,Category,SubCategory,Qty,Price,Region,State,City,PaymentMethod,ReturnFlag,SalesRep
+ORD-1001,2024-01-03,CUST-201,Amit Sharma,Wireless Headphones,Electronics,Audio,1,2499,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1002,2024-01-04,CUST-342,Priya Patel,Running Shoes,Footwear,Sports,2,1899,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1003,2024-01-05,CUST-115,Rahul Verma,Cotton T-Shirt,Clothing,Men,3,599,South,Karnataka,Bengaluru,Debit Card,No,Arjun Nair
+ORD-1004,2024-01-06,CUST-478,Sunita Reddy,Yoga Mat,Sports,Fitness,1,1199,South,Telangana,Hyderabad,UPI,No,Arjun Nair
+ORD-1005,2024-01-07,CUST-203,Vikram Singh,Laptop Bag,Bags,Laptop,1,1599,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1006,2024-01-08,CUST-561,Anjali Gupta,Face Moisturizer,Beauty,Skincare,2,849,East,West Bengal,Kolkata,COD,Yes,Meena Das
+ORD-1007,2024-01-09,CUST-389,Kiran Rao,Bluetooth Speaker,Electronics,Audio,1,3299,South,Karnataka,Bengaluru,Credit Card,No,Arjun Nair
+ORD-1008,2024-01-10,CUST-102,Deepak Mehta,Stainless Steel Bottle,Kitchen,Drinkware,2,499,West,Gujarat,Ahmedabad,UPI,No,Sneha Joshi
+ORD-1009,2024-01-11,CUST-445,Kavya Nair,Formal Shirt,Clothing,Men,1,1299,South,Kerala,Kochi,Debit Card,No,Arjun Nair
+ORD-1010,2024-01-12,CUST-317,Sanjay Bose,Smartwatch,Electronics,Wearables,1,8999,East,West Bengal,Kolkata,Credit Card,No,Meena Das
+ORD-1011,2024-01-14,CUST-228,Pooja Tiwari,Kurta Set,Clothing,Women,2,1799,North,Uttar Pradesh,Lucknow,COD,No,Rajesh Kumar
+ORD-1012,2024-01-15,CUST-534,Arun Kumar,Protein Powder,Health,Supplements,1,2199,South,Tamil Nadu,Chennai,UPI,No,Arjun Nair
+ORD-1013,2024-01-16,CUST-162,Nisha Jain,Lip Balm Set,Beauty,Lips,3,349,West,Rajasthan,Jaipur,Debit Card,No,Sneha Joshi
+ORD-1014,2024-01-17,CUST-403,Manoj Pillai,Gaming Mouse,Electronics,Peripherals,1,1499,South,Kerala,Thiruvananthapuram,Net Banking,No,Arjun Nair
+ORD-1015,2024-01-18,CUST-276,Rekha Sharma,Non-Stick Pan,Kitchen,Cookware,1,1099,North,Haryana,Gurugram,UPI,Yes,Rajesh Kumar
+ORD-1016,2024-01-19,CUST-589,Alok Mishra,Casual Sneakers,Footwear,Casual,1,2299,East,Odisha,Bhubaneswar,COD,No,Meena Das
+ORD-1017,2024-01-21,CUST-144,Divya Menon,Hair Dryer,Beauty,Haircare,1,1799,South,Karnataka,Bengaluru,Credit Card,No,Arjun Nair
+ORD-1018,2024-01-22,CUST-361,Suresh Patil,Dumbbell Set,Sports,Fitness,1,3499,West,Maharashtra,Pune,UPI,No,Sneha Joshi
+ORD-1019,2024-01-23,CUST-419,Geeta Agarwal,Printed Saree,Clothing,Women,1,2499,North,Rajasthan,Jaipur,Net Banking,No,Rajesh Kumar
+ORD-1020,2024-01-24,CUST-237,Rohit Chauhan,USB-C Hub,Electronics,Accessories,2,1299,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1021,2024-01-25,CUST-512,Lakshmi Iyer,Resistance Bands,Sports,Fitness,2,599,South,Tamil Nadu,Chennai,Debit Card,No,Arjun Nair
+ORD-1022,2024-01-26,CUST-183,Naveen Garg,Coffee Maker,Kitchen,Appliances,1,3999,West,Maharashtra,Mumbai,Credit Card,Yes,Sneha Joshi
+ORD-1023,2024-01-28,CUST-468,Seema Yadav,Vitamin C Serum,Beauty,Skincare,1,999,North,Uttar Pradesh,Kanpur,COD,No,Rajesh Kumar
+ORD-1024,2024-01-29,CUST-325,Tarun Bhatia,Mechanical Keyboard,Electronics,Peripherals,1,4599,North,Punjab,Chandigarh,Net Banking,No,Rajesh Kumar
+ORD-1025,2024-01-30,CUST-596,Usha Pillai,Wooden Serving Board,Kitchen,Dining,2,799,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1026,2024-02-01,CUST-141,Pradeep Nair,Slim Fit Jeans,Clothing,Men,1,1799,South,Karnataka,Bengaluru,Debit Card,No,Arjun Nair
+ORD-1027,2024-02-02,CUST-374,Meena Pillai,Face Wash,Beauty,Skincare,3,449,South,Tamil Nadu,Coimbatore,UPI,No,Arjun Nair
+ORD-1028,2024-02-03,CUST-209,Arjun Sethi,Cricket Bat,Sports,Cricket,1,2999,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1029,2024-02-05,CUST-453,Bharti Saxena,Floral Dress,Clothing,Women,1,1599,North,Delhi,New Delhi,COD,No,Rajesh Kumar
+ORD-1030,2024-02-06,CUST-128,Gopal Tiwari,Pressure Cooker,Kitchen,Cookware,1,1899,East,Bihar,Patna,UPI,No,Meena Das
+ORD-1031,2024-02-07,CUST-487,Ritu Sharma,Wireless Earbuds,Electronics,Audio,1,2799,North,Haryana,Faridabad,Net Banking,No,Rajesh Kumar
+ORD-1032,2024-02-08,CUST-263,Sunil Verma,Badminton Racket,Sports,Badminton,2,1299,North,Uttar Pradesh,Agra,Debit Card,No,Rajesh Kumar
+ORD-1033,2024-02-09,CUST-541,Anita Roy,Lip Gloss,Beauty,Lips,2,399,East,West Bengal,Kolkata,COD,No,Meena Das
+ORD-1034,2024-02-10,CUST-196,Mahesh Kulkarni,Backpack 30L,Bags,Travel,1,2199,West,Maharashtra,Nagpur,UPI,No,Sneha Joshi
+ORD-1035,2024-02-12,CUST-429,Kavitha Menon,Electric Toothbrush,Beauty,Oral Care,1,1499,South,Kerala,Thrissur,Credit Card,No,Arjun Nair
+ORD-1036,2024-02-13,CUST-312,Lokesh Gupta,Resistance Bands,Sports,Fitness,3,599,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1037,2024-02-14,CUST-578,Pallavi Joshi,Gold Plated Earrings,Accessories,Jewellery,1,899,West,Gujarat,Surat,Debit Card,Yes,Sneha Joshi
+ORD-1038,2024-02-15,CUST-247,Ramesh Pillai,Trekking Shoes,Footwear,Sports,1,3499,South,Tamil Nadu,Chennai,Net Banking,No,Arjun Nair
+ORD-1039,2024-02-16,CUST-391,Smita Agarwal,Kurta Pyjama Set,Clothing,Men,2,1499,North,Rajasthan,Jodhpur,COD,No,Rajesh Kumar
+ORD-1040,2024-02-18,CUST-155,Harish Bose,Power Bank 20000mAh,Electronics,Accessories,1,1999,East,West Bengal,Howrah,UPI,No,Meena Das
+ORD-1041,2024-02-19,CUST-467,Sunanda Reddy,Turmeric Face Pack,Beauty,Skincare,2,549,South,Telangana,Secunderabad,Debit Card,No,Arjun Nair
+ORD-1042,2024-02-20,CUST-223,Deepak Rao,Football,Sports,Football,1,1299,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1043,2024-02-21,CUST-534,Arun Kumar,Whey Protein,Health,Supplements,1,2499,South,Tamil Nadu,Chennai,UPI,No,Arjun Nair
+ORD-1044,2024-02-22,CUST-108,Nirmala Jain,Printed Tote Bag,Bags,Casual,2,699,West,Rajasthan,Udaipur,COD,No,Sneha Joshi
+ORD-1045,2024-02-23,CUST-446,Vikas Mishra,4K Monitor,Electronics,Displays,1,18999,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1046,2024-02-24,CUST-289,Shobha Nair,Sunscreen SPF50,Beauty,Skincare,3,699,South,Kerala,Kozhikode,UPI,No,Arjun Nair
+ORD-1047,2024-02-26,CUST-562,Rajan Pillai,Leather Wallet,Accessories,Wallets,1,1199,South,Tamil Nadu,Madurai,Debit Card,No,Arjun Nair
+ORD-1048,2024-02-27,CUST-174,Mamta Sharma,Winter Jacket,Clothing,Women,1,3999,North,Himachal Pradesh,Shimla,Credit Card,No,Rajesh Kumar
+ORD-1049,2024-02-28,CUST-418,Suresh Bhatia,Gym Gloves,Sports,Fitness,1,599,North,Punjab,Ludhiana,COD,No,Rajesh Kumar
+ORD-1050,2024-02-29,CUST-331,Girija Menon,Ceramic Mug Set,Kitchen,Dining,2,999,South,Karnataka,Mysuru,UPI,No,Arjun Nair
+ORD-1051,2024-03-01,CUST-201,Amit Sharma,Smart LED Bulb,Electronics,Smart Home,4,499,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1052,2024-03-02,CUST-483,Priti Kulkarni,Flare Leggings,Clothing,Women,2,1299,West,Maharashtra,Pune,Debit Card,No,Sneha Joshi
+ORD-1053,2024-03-04,CUST-136,Karan Malhotra,Mechanical Watch,Accessories,Watches,1,5999,North,Delhi,Gurugram,Credit Card,No,Rajesh Kumar
+ORD-1054,2024-03-05,CUST-364,Chitra Iyer,Hair Serum,Beauty,Haircare,2,799,South,Tamil Nadu,Chennai,UPI,No,Arjun Nair
+ORD-1055,2024-03-06,CUST-527,Balaji Reddy,Cricket Helmet,Sports,Cricket,1,1799,South,Telangana,Hyderabad,Net Banking,No,Arjun Nair
+ORD-1056,2024-03-07,CUST-192,Lata Gupta,Embroidered Dupatta,Clothing,Women,3,899,North,Uttar Pradesh,Varanasi,COD,No,Rajesh Kumar
+ORD-1057,2024-03-08,CUST-449,Mohan Das,Air Fryer,Kitchen,Appliances,1,5999,East,West Bengal,Kolkata,Credit Card,No,Meena Das
+ORD-1058,2024-03-09,CUST-283,Sunita Bose,Compact Powder,Beauty,Face,2,699,East,Assam,Guwahati,Debit Card,No,Meena Das
+ORD-1059,2024-03-11,CUST-571,Naresh Pillai,Skipping Rope,Sports,Fitness,2,399,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1060,2024-03-12,CUST-147,Rekha Verma,Handbag,Bags,Fashion,1,3499,North,Delhi,New Delhi,Credit Card,Yes,Rajesh Kumar
+ORD-1061,2024-03-13,CUST-396,Aditya Sharma,Noise Cancelling Headphones,Electronics,Audio,1,7499,North,Haryana,Gurugram,Net Banking,No,Rajesh Kumar
+ORD-1062,2024-03-14,CUST-254,Hema Rao,Moisturizing Lotion,Beauty,Skincare,2,649,South,Karnataka,Bengaluru,UPI,No,Arjun Nair
+ORD-1063,2024-03-15,CUST-538,Praveen Jain,Tennis Racket,Sports,Tennis,1,2499,West,Rajasthan,Jaipur,Debit Card,No,Sneha Joshi
+ORD-1064,2024-03-16,CUST-179,Shweta Mehta,Kurti,Clothing,Women,2,1199,West,Gujarat,Vadodara,COD,No,Sneha Joshi
+ORD-1065,2024-03-18,CUST-425,Siddharth Nair,Portable SSD 1TB,Electronics,Storage,1,6499,South,Kerala,Thiruvananthapuram,Credit Card,No,Arjun Nair
+ORD-1066,2024-03-19,CUST-301,Vandana Pillai,Kajal Pencil,Beauty,Eyes,3,299,South,Tamil Nadu,Coimbatore,UPI,No,Arjun Nair
+ORD-1067,2024-03-20,CUST-163,Narendra Bhatia,Trolley Bag 24 inch,Bags,Travel,1,4499,North,Punjab,Amritsar,Net Banking,No,Rajesh Kumar
+ORD-1068,2024-03-21,CUST-489,Rashmi Kulkarni,Omega-3 Capsules,Health,Supplements,2,999,West,Maharashtra,Aurangabad,UPI,No,Sneha Joshi
+ORD-1069,2024-03-22,CUST-218,Tarun Choudhary,Table Tennis Set,Sports,Table Tennis,1,1999,East,Jharkhand,Ranchi,Debit Card,No,Meena Das
+ORD-1070,2024-03-23,CUST-551,Uma Iyer,Ethnic Stole,Clothing,Women,2,799,South,Tamil Nadu,Chennai,COD,No,Arjun Nair
+ORD-1071,2024-03-25,CUST-134,Vijay Malhotra,Webcam 1080p,Electronics,Peripherals,1,2999,North,Delhi,New Delhi,Credit Card,No,Rajesh Kumar
+ORD-1072,2024-03-26,CUST-382,Amala Nair,Rose Water Toner,Beauty,Skincare,3,499,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1073,2024-03-27,CUST-246,Dhruv Sharma,Football Boots,Footwear,Sports,1,2999,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1074,2024-03-28,CUST-519,Sonal Joshi,Silk Saree,Clothing,Women,1,4999,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1075,2024-03-29,CUST-171,Govind Rao,Rice Cooker,Kitchen,Appliances,1,2799,South,Andhra Pradesh,Vijayawada,UPI,No,Arjun Nair
+ORD-1076,2024-04-01,CUST-437,Hina Patel,Kajal,Beauty,Eyes,2,349,West,Gujarat,Rajkot,Debit Card,No,Sneha Joshi
+ORD-1077,2024-04-02,CUST-293,Santosh Mishra,Volleyball,Sports,Volleyball,1,999,East,Uttar Pradesh,Allahabad,COD,No,Meena Das
+ORD-1078,2024-04-03,CUST-155,Harish Bose,Laptop Stand,Electronics,Accessories,1,1799,East,West Bengal,Kolkata,UPI,No,Meena Das
+ORD-1079,2024-04-04,CUST-561,Anjali Gupta,Anti-Aging Cream,Beauty,Skincare,1,1299,East,West Bengal,Kolkata,Credit Card,No,Meena Das
+ORD-1080,2024-04-05,CUST-327,Satish Pillai,Polo T-Shirt,Clothing,Men,3,899,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1081,2024-04-06,CUST-494,Vimala Menon,Steel Lunch Box,Kitchen,Drinkware,2,699,South,Tamil Nadu,Salem,Debit Card,No,Arjun Nair
+ORD-1082,2024-04-08,CUST-168,Aakash Verma,Smartwatch Pro,Electronics,Wearables,1,12999,North,Delhi,New Delhi,Credit Card,No,Rajesh Kumar
+ORD-1083,2024-04-09,CUST-413,Renu Agarwal,Lehenga Choli,Clothing,Women,1,5999,North,Rajasthan,Jaipur,Net Banking,No,Rajesh Kumar
+ORD-1084,2024-04-10,CUST-256,Mohit Rao,Swimming Goggles,Sports,Swimming,1,799,South,Karnataka,Bengaluru,UPI,No,Arjun Nair
+ORD-1085,2024-04-11,CUST-582,Chanda Sharma,Perfume 50ml,Beauty,Fragrance,1,2199,North,Haryana,Faridabad,COD,No,Rajesh Kumar
+ORD-1086,2024-04-12,CUST-141,Pradeep Nair,Running Shorts,Clothing,Men,2,799,South,Karnataka,Bengaluru,Debit Card,No,Arjun Nair
+ORD-1087,2024-04-13,CUST-349,Puja Dey,Bamboo Cutting Board,Kitchen,Dining,1,899,East,West Bengal,Durgapur,UPI,No,Meena Das
+ORD-1088,2024-04-14,CUST-217,Girish Malhotra,Portable Charger,Electronics,Accessories,2,1599,North,Delhi,Noida,Net Banking,No,Rajesh Kumar
+ORD-1089,2024-04-15,CUST-471,Santhi Pillai,Sunscreen SPF70,Beauty,Skincare,2,849,South,Kerala,Palakkad,UPI,No,Arjun Nair
+ORD-1090,2024-04-16,CUST-135,Manish Bhatia,Chess Set,Sports,Board Games,1,1499,North,Punjab,Patiala,COD,No,Rajesh Kumar
+ORD-1091,2024-04-17,CUST-502,Laxmi Reddy,Anarkali Suit,Clothing,Women,1,3299,South,Telangana,Hyderabad,Credit Card,No,Arjun Nair
+ORD-1092,2024-04-18,CUST-278,Anil Joshi,Casserole Dish,Kitchen,Cookware,1,1799,West,Maharashtra,Nashik,Debit Card,No,Sneha Joshi
+ORD-1093,2024-04-19,CUST-374,Meena Pillai,Nail Polish Set,Beauty,Nails,2,599,South,Tamil Nadu,Coimbatore,UPI,No,Arjun Nair
+ORD-1094,2024-04-21,CUST-429,Kavitha Menon,Yoga Block Set,Sports,Fitness,1,699,South,Kerala,Thrissur,Net Banking,No,Arjun Nair
+ORD-1095,2024-04-22,CUST-193,Surekha Gupta,Salwar Suit,Clothing,Women,1,2799,North,Uttar Pradesh,Meerut,COD,No,Rajesh Kumar
+ORD-1096,2024-04-23,CUST-546,Dinesh Sharma,Wireless Mouse,Electronics,Peripherals,1,999,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1097,2024-04-24,CUST-312,Lokesh Gupta,Protein Bar (Box of 6),Health,Supplements,2,1299,North,Delhi,New Delhi,Credit Card,No,Rajesh Kumar
+ORD-1098,2024-04-25,CUST-168,Aakash Verma,USB Microphone,Electronics,Audio,1,3499,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1099,2024-04-26,CUST-387,Kamla Iyer,Hibiscus Shampoo,Beauty,Haircare,3,449,South,Tamil Nadu,Trichy,UPI,No,Arjun Nair
+ORD-1100,2024-04-27,CUST-231,Ashok Mehta,Formal Trousers,Clothing,Men,2,1699,West,Maharashtra,Mumbai,Debit Card,No,Sneha Joshi
+ORD-1101,2024-05-01,CUST-519,Sonal Joshi,Blender,Kitchen,Appliances,1,3299,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1102,2024-05-02,CUST-145,Rajan Sharma,Cricket Pads,Sports,Cricket,1,2499,North,Delhi,New Delhi,UPI,No,Rajesh Kumar
+ORD-1103,2024-05-03,CUST-408,Sudha Pillai,Overnight Cream,Beauty,Skincare,1,1499,South,Kerala,Kottayam,Debit Card,No,Arjun Nair
+ORD-1104,2024-05-04,CUST-267,Vivek Agarwal,Monitor Stand,Electronics,Accessories,1,2199,North,Uttar Pradesh,Lucknow,Net Banking,No,Rajesh Kumar
+ORD-1105,2024-05-06,CUST-583,Prema Rao,Ethnic Handbag,Bags,Fashion,1,1999,South,Andhra Pradesh,Vijayawada,COD,No,Arjun Nair
+ORD-1106,2024-05-07,CUST-136,Karan Malhotra,Smart Home Hub,Electronics,Smart Home,1,8499,North,Delhi,Gurugram,Credit Card,No,Rajesh Kumar
+ORD-1107,2024-05-08,CUST-354,Nandini Bose,Floral Kurti,Clothing,Women,3,999,East,West Bengal,Kolkata,UPI,No,Meena Das
+ORD-1108,2024-05-09,CUST-499,Rajiv Nair,Swim Cap,Sports,Swimming,2,349,South,Kerala,Kochi,Debit Card,No,Arjun Nair
+ORD-1109,2024-05-10,CUST-182,Asha Verma,BB Cream,Beauty,Face,2,899,North,Delhi,New Delhi,COD,No,Rajesh Kumar
+ORD-1110,2024-05-11,CUST-437,Hina Patel,Churidar Set,Clothing,Women,1,2299,West,Gujarat,Rajkot,Net Banking,No,Sneha Joshi
+ORD-1111,2024-05-13,CUST-263,Sunil Verma,Badminton Shoes,Footwear,Sports,1,3199,North,Uttar Pradesh,Agra,Credit Card,No,Rajesh Kumar
+ORD-1112,2024-05-14,CUST-541,Anita Roy,Eyeliner,Beauty,Eyes,3,399,East,West Bengal,Kolkata,UPI,No,Meena Das
+ORD-1113,2024-05-15,CUST-197,Nitin Malhotra,Smart Plug,Electronics,Smart Home,2,799,North,Delhi,New Delhi,Debit Card,No,Rajesh Kumar
+ORD-1114,2024-05-16,CUST-371,Sarla Joshi,Cashmere Shawl,Clothing,Women,1,3799,West,Maharashtra,Pune,COD,No,Sneha Joshi
+ORD-1115,2024-05-17,CUST-244,Vinod Nair,Rowing Machine,Sports,Fitness,1,14999,South,Kerala,Kochi,Net Banking,No,Arjun Nair
+ORD-1116,2024-05-18,CUST-468,Seema Yadav,Night Serum,Beauty,Skincare,1,1799,North,Uttar Pradesh,Kanpur,UPI,No,Rajesh Kumar
+ORD-1117,2024-05-19,CUST-329,Suresh Bose,Induction Cooktop,Kitchen,Appliances,1,4299,East,West Bengal,Kolkata,Credit Card,No,Meena Das
+ORD-1118,2024-05-20,CUST-175,Revati Pillai,Ethnic Jewellery Set,Accessories,Jewellery,1,1499,South,Tamil Nadu,Chennai,Debit Card,No,Arjun Nair
+ORD-1119,2024-05-21,CUST-451,Gaurav Sharma,External Hard Drive 2TB,Electronics,Storage,1,5499,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1120,2024-05-22,CUST-306,Padma Rao,Salsa Dress,Clothing,Women,1,2999,South,Karnataka,Bengaluru,UPI,Yes,Arjun Nair
+ORD-1121,2024-05-23,CUST-538,Praveen Jain,Sports Gloves,Sports,Fitness,2,699,West,Rajasthan,Jaipur,COD,No,Sneha Joshi
+ORD-1122,2024-05-24,CUST-213,Sushma Mehta,Charcoal Face Mask,Beauty,Skincare,3,599,West,Maharashtra,Mumbai,Debit Card,No,Sneha Joshi
+ORD-1123,2024-05-25,CUST-478,Sunita Reddy,Exercise Bike,Sports,Fitness,1,19999,South,Telangana,Hyderabad,Credit Card,No,Arjun Nair
+ORD-1124,2024-05-27,CUST-142,Raghav Pillai,Color Changing Lamp,Electronics,Smart Home,2,1299,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1125,2024-05-28,CUST-367,Deepika Sharma,Formal Blazer,Clothing,Women,1,4499,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1126,2024-05-29,CUST-521,Bhaskar Reddy,Treadmill,Sports,Fitness,1,29999,South,Telangana,Hyderabad,Credit Card,No,Arjun Nair
+ORD-1127,2024-05-30,CUST-189,Nalini Gupta,Conditioner 400ml,Beauty,Haircare,2,549,North,Uttar Pradesh,Lucknow,Debit Card,No,Rajesh Kumar
+ORD-1128,2024-05-31,CUST-443,Prashant Nair,Juicer,Kitchen,Appliances,1,2499,South,Kerala,Thrissur,UPI,No,Arjun Nair
+ORD-1129,2024-06-01,CUST-274,Swati Joshi,Palazzo Pants,Clothing,Women,2,1399,West,Maharashtra,Nashik,COD,No,Sneha Joshi
+ORD-1130,2024-06-02,CUST-551,Uma Iyer,Kajal Set,Beauty,Eyes,2,499,South,Tamil Nadu,Chennai,Credit Card,No,Arjun Nair
+ORD-1131,2024-06-03,CUST-196,Mahesh Kulkarni,Running Shoes,Footwear,Sports,1,3299,West,Maharashtra,Nagpur,Net Banking,No,Sneha Joshi
+ORD-1132,2024-06-04,CUST-413,Renu Agarwal,Cycling Helmet,Sports,Cycling,1,1899,North,Rajasthan,Jaipur,UPI,No,Rajesh Kumar
+ORD-1133,2024-06-05,CUST-128,Gopal Tiwari,Vacuum Cleaner,Kitchen,Appliances,1,7499,East,Bihar,Patna,Debit Card,No,Meena Das
+ORD-1134,2024-06-06,CUST-487,Ritu Sharma,Oversized Hoodie,Clothing,Women,1,1999,North,Haryana,Faridabad,COD,No,Rajesh Kumar
+ORD-1135,2024-06-07,CUST-358,Viveka Nair,Foundation Stick,Beauty,Face,2,899,South,Kerala,Kochi,UPI,No,Arjun Nair
+ORD-1136,2024-06-08,CUST-231,Ashok Mehta,Cycle Lock,Sports,Cycling,1,699,West,Maharashtra,Mumbai,Credit Card,No,Sneha Joshi
+ORD-1137,2024-06-10,CUST-502,Laxmi Reddy,Chiffon Saree,Clothing,Women,1,3499,South,Telangana,Hyderabad,Net Banking,No,Arjun Nair
+ORD-1138,2024-06-11,CUST-165,Mannan Sharma,Robot Vacuum,Electronics,Smart Home,1,12499,North,Delhi,New Delhi,Credit Card,No,Rajesh Kumar
+ORD-1139,2024-06-12,CUST-394,Triveni Pillai,Rose Hip Oil,Beauty,Skincare,2,1199,South,Tamil Nadu,Chennai,UPI,No,Arjun Nair
+ORD-1140,2024-06-13,CUST-267,Vivek Agarwal,Dual Monitor Arm,Electronics,Accessories,1,3799,North,Uttar Pradesh,Lucknow,Debit Card,No,Rajesh Kumar
+ORD-1141,2024-06-14,CUST-583,Prema Rao,Leather Sandals,Footwear,Casual,2,1499,South,Andhra Pradesh,Vijayawada,COD,No,Arjun Nair
+ORD-1142,2024-06-15,CUST-318,Rajesh Bose,Spice Box Set,Kitchen,Dining,1,999,East,West Bengal,Kolkata,UPI,No,Meena Das
+ORD-1143,2024-06-17,CUST-451,Gaurav Sharma,SSD 512GB,Electronics,Storage,1,4999,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1144,2024-06-18,CUST-273,Urvashi Jain,Workout Leggings,Clothing,Women,2,1499,West,Rajasthan,Udaipur,Credit Card,No,Sneha Joshi
+ORD-1145,2024-06-19,CUST-189,Nalini Gupta,Hair Mask,Beauty,Haircare,3,799,North,Uttar Pradesh,Lucknow,UPI,No,Rajesh Kumar
+ORD-1146,2024-06-20,CUST-525,Sivakumar Pillai,Skates,Sports,Skating,1,3999,South,Tamil Nadu,Chennai,Debit Card,No,Arjun Nair
+ORD-1147,2024-06-21,CUST-201,Amit Sharma,Desk Organiser,Electronics,Accessories,2,1299,North,Delhi,New Delhi,COD,No,Rajesh Kumar
+ORD-1148,2024-06-22,CUST-364,Chitra Iyer,Volumizing Shampoo,Beauty,Haircare,2,649,South,Tamil Nadu,Chennai,UPI,No,Arjun Nair
+ORD-1149,2024-06-24,CUST-446,Vikas Mishra,Ergonomic Chair,Electronics,Accessories,1,15999,North,Delhi,New Delhi,Net Banking,No,Rajesh Kumar
+ORD-1150,2024-06-25,CUST-338,Pallavi Reddy,Floral Jumpsuit,Clothing,Women,1,2199,South,Telangana,Hyderabad,Credit Card,No,Arjun Nair
