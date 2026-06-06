@@ -111,12 +111,13 @@ From a portfolio perspective, this project demonstrates proficiency in:
 
 | Attribute | Detail |
 |-----------|--------|
+| **File** | `ecommerce_sales` |
 | **Source** | E-Commerce Sales & Returns Data (Structured) |
 | **Total Records** | 150 Orders |
 | **Categories** | 9 (Electronics, Sports, Clothing, Beauty, Kitchen, Footwear, Bags, Accessories, Health) |
 | **Regions** | 4 (East, North, South, West) |
 | **Payment Methods** | 5 (Credit Card, UPI, COD, Debit Card, Net Banking) |
-
+> 📂 Full dataset available in [`IPL_Match_Data.csv`](IPL_Match_Data.csv)
 ---
 
 ## 🤝 Connect With Me
