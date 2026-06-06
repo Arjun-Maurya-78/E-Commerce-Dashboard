@@ -1,12 +1,4 @@
 # 🛒 E-Commerce Pulse — Sales & Returns Analytics Dashboard
-
-> **"Where Every Order Tells a Story — Decoded by Data."**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-
 ---
 
 ## 📌 Project Overview
@@ -71,6 +63,11 @@ Deep-dive into return analytics including Return Rate, Revenue Lost to returns, 
 | **DAX** | Custom measures & calculated columns |
 | **Microsoft Excel** | Data exploration & pre-processing |
 
+> **"Where Every Order Tells a Story — Decoded by Data."**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ---
 
 ## 💡 Project Insights
