@@ -117,7 +117,7 @@ From a portfolio perspective, this project demonstrates proficiency in:
 
 ## 🤝 Connect With Me
 
-If you found this project insightful, feel free to ⭐ star the repository and connect!
+🔥 “If this dashboard sparked ideas, drop a ⭐ and connect!”  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-maurya78)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
