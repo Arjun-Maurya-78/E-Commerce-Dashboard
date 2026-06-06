@@ -39,7 +39,7 @@ A high-level snapshot of business-wide KPIs including Total Revenue, Total Order
 ### Page 2 — Returns & Sales KPI
 Deep-dive into return analytics including Return Rate, Revenue Lost to returns, Top Return Category, and Total Returns count. Features category-wise return count bar chart, monthly return trend, payment method revenue breakdown, and a detailed order-level table with Product, Category, Revenue, and SalesRep.
 
-![Returns & Sales KPI](Returns___Sales_KPI.png)
+![Returns & Sales KPI](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard/blob/main/Returns%20%26%20Sales%20KPI.png)
 
 ---
 
