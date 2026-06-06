@@ -62,6 +62,7 @@ Deep-dive into return analytics including Return Rate, Revenue Lost to returns, 
 | **Power Query** | Data cleaning & transformation |
 | **DAX** | Custom measures & calculated columns |
 | **Microsoft Excel** | Data exploration & pre-processing |
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
