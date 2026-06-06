@@ -32,14 +32,14 @@ To design and develop an end-to-end interactive Power BI dashboard that enables 
 ### Page 1 — E-Commerce Dashboard (Sales Overview)
 A high-level snapshot of business-wide KPIs including Total Revenue, Total Orders, Average Order Value, and Return Rate — with slicers for Month, Category, and Region filters. Features a revenue trend line chart by month, category-wise revenue bar chart, and payment method donut chart.
 
-![E-Commerce Dashboard](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard/blob/main/E-Commerce%20Dashboard.png)
+![E-Commerce Dashboard](E-Commerce%20Dashboard.png)
 
 ---
 
 ### Page 2 — Returns & Sales KPI
 Deep-dive into return analytics including Return Rate, Revenue Lost to returns, Top Return Category, and Total Returns count. Features category-wise return count bar chart, monthly return trend, payment method revenue breakdown, and a detailed order-level table with Product, Category, Revenue, and SalesRep.
 
-![Returns & Sales KPI](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard/blob/main/Returns%20%26%20Sales%20KPI.png)
+![Returns & Sales KPI](Returns%20%26%20Sales%20KPI.png)
 
 ---
 
@@ -117,7 +117,7 @@ From a portfolio perspective, this project demonstrates proficiency in:
 | **Categories** | 9 (Electronics, Sports, Clothing, Beauty, Kitchen, Footwear, Bags, Accessories, Health) |
 | **Regions** | 4 (East, North, South, West) |
 | **Payment Methods** | 5 (Credit Card, UPI, COD, Debit Card, Net Banking) |
-> 📂 Full dataset available in [`IPL_Match_Data.csv`](ecommerce_sales.csv)
+> 📂 Full dataset available in [`ecommerce_sales.csv`](ecommerce_sales.csv)
 ---
 
 ## 🤝 Connect With Me
