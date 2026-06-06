@@ -32,7 +32,7 @@ To design and develop an end-to-end interactive Power BI dashboard that enables 
 ### Page 1 — E-Commerce Dashboard (Sales Overview)
 A high-level snapshot of business-wide KPIs including Total Revenue, Total Orders, Average Order Value, and Return Rate — with slicers for Month, Category, and Region filters. Features a revenue trend line chart by month, category-wise revenue bar chart, and payment method donut chart.
 
-![E-Commerce Dashboard](E-Commerce_Dashboard.png)
+![E-Commerce Dashboard](https://github.com/Arjun-Maurya-78/E-Commerce-Dashboard/blob/main/E-Commerce%20Dashboard.png)
 
 ---
 
