@@ -117,7 +117,7 @@ From a portfolio perspective, this project demonstrates proficiency in:
 | **Categories** | 9 (Electronics, Sports, Clothing, Beauty, Kitchen, Footwear, Bags, Accessories, Health) |
 | **Regions** | 4 (East, North, South, West) |
 | **Payment Methods** | 5 (Credit Card, UPI, COD, Debit Card, Net Banking) |
-> 📂 Full dataset available in [`IPL_Match_Data.csv`](IPL_Match_Data.csv)
+> 📂 Full dataset available in [`IPL_Match_Data.csv`](ecommerce_sales.csv)
 ---
 
 ## 🤝 Connect With Me
