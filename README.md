@@ -7,18 +7,6 @@
 
 ---
 
-## 🎯 Project Objective
-
-To design and develop an end-to-end interactive Power BI dashboard that enables e-commerce managers, sales strategists, and business analysts to:
-
-- Monitor revenue performance across months and product categories
-- Evaluate return rates and identify high-return categories
-- Understand customer payment method preferences
-- Analyze regional sales patterns and performance breakdowns
-- Derive data-driven insights that go beyond raw order counts
-
----
-
 ## 📊 Dashboard Pages
 
 ### Page 1 — E-Commerce Dashboard (Sales Overview)
@@ -66,26 +54,6 @@ Deep-dive into return analytics including Return Rate, Revenue Lost to returns, 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
----
-
-## 💡 Project Insights
-
-- 💰 **Electronics dominates revenue** at **₹149K** — nearly 1.5x the second-highest category (Sports at ₹102K), making it the primary revenue driver for the business.
-
-- 📉 **Revenue declined sharply after May** — from a peak of ₹133K in May to ₹61K in April, suggesting strong seasonal demand spikes that fade across the year.
-
-- 🔄 **Kitchen is the top return category** despite not being among the highest revenue generators — indicating potential product quality or expectation mismatch issues.
-
-- 💳 **Credit Card is the dominant payment method** at **35.53%** of revenue, followed by UPI (25.61%) and COD (17.33%) — reflecting a mix of digital and traditional payment preferences.
-
-- 🌐 **4% overall return rate** is relatively healthy for e-commerce, but the ₹14K revenue lost to returns highlights the financial impact of even low return volumes.
-
-- 📦 **150 total orders** with a **₹3K average order value** suggests a mid-to-high ticket size per transaction, consistent with Electronics and Sports being top categories.
-
-- 📅 **Returns peaked in January (3 returns)** then distributed evenly across February, March, and May (1 each) — no single month dominates return behavior.
-
-- 🧑‍💼 **Arjun Nair and Rajesh Kumar** are the most active sales representatives, handling high-value orders including a ₹29,999 Treadmill and ₹19,999 Exercise Bike.
-
 ---
 
 ## ✅ Final Conclusion
